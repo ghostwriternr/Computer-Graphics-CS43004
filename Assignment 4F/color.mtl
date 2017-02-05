@@ -1,0 +1,13 @@
+newmtl white
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+illum 1
+Ns 100.0
+
+newmtl red
+Ka 1.0 0.0 0.0
+Kd 1.0 0.0 0.0
+Ks 1.0 0.0 0.0
+illum 1
+Ns 100.0
